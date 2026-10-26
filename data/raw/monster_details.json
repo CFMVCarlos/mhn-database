@@ -1,0 +1,1316 @@
+{
+  "aknosom": {
+    "slug": "aknosom",
+    "description": "Often seen standing on only one leg, it is said to resemble a parasol. When confronted by any who would dare enter its territory, it spreads its wings and intimidates the trespasser with the eye-like patterns on its crest. Within its body it stores a flammable liquid that, once ignited, is difficult to extinguish and remains for some time.",
+    "useful_info": "This monster spits out bouncing fireballs whose trajectory are difficult to ascertain. It also attacks as it moves, making it hard to judge its distance from you. As such, it is necessary to watch its movements closely and look for openings after each of its attacks. A strong specimen may greatly increase its strength by spreading its parasol-like crest. However, this grants a perfect opportunity to strike and break its weak head, so as to retract its crest and return it to its normal state.",
+    "translations": {
+      "AKNOSOM_BEAK": "Aknosom Beak",
+      "AKNOSOM_CREST": "Aknosom Crest",
+      "AKNOSOM_FEATHER": "Aknosom Feather",
+      "AKNOSOM_PRIMEFEATHER": "Aknosom Primefeather",
+      "AKNOSOM_PRIMESCALE": "Aknosom Primescale",
+      "AKNOSOM_RIFTBORNE_MATERIAL": "Aknosom Riftscale",
+      "AKNOSOM_SCALE": "Aknosom Scale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "almudron": {
+    "slug": "almudron",
+    "description": "As its name implies, Almudron spends a great deal of time lurking in mud—at least until it emerges to smother approaching prey. From its tail oozes a strange golden fluid, which Almudron uses to dissolve the ground beneath its prey, arresting them in a mire so that it can drag them under. When enraged, it produces more fluid, turning the mud golden. When you see gold, watch out!",
+    "useful_info": "This monster’s attacks can generate fluids that turn the ground into golden mud. This mud inflicts continuous damage and slows movement. Additionally, it creates mud whirlpools that may pull hunters in and launch them skywards, so it’s best to keep your distance from these whirlpools. Furthermore, caution is needed when an Almudron leaps high into the air. If you see splashes appear on the ground, this is a sign that the mud is about to erupt, so pay attention to your footing. Its weak point is its massive tail. When it takes hold of a large mud ball with its tail, it will perform a powerful wide-area attack—however, the large mud ball is easily breakable, and doing so will stagger Almudron. The tail itself is also fairly vulnerable, so focus your attacks on it.",
+    "translations": {
+      "ALMUDRON_CLAW": "Almudron Claw",
+      "ALMUDRON_FIN": "Almudron Fin",
+      "ALMUDRON_SCALE": "Almudron Scale",
+      "ALMUDRON_SHELL": "Almudron Shell",
+      "ALMUDRON_TAIL": "Almudron Tail",
+      "ALMUDRON_WHISKER": "Almudron Whisker",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "anjanath": {
+    "slug": "anjanath",
+    "description": "Infamous for its belligerence, this brute wyvern indiscriminately attacks all without hesitation. The large membrane extending from its waist to the base of its tail fans out when it becomes agitated. This fan-like membrane is thought to be used not only for intimidation, but also as a mode of body temperature control. This is attributed to the fact that when Anjanath expels flames from its mouth, the membrane has been spotted expanding in tandem, releasing excess heat.",
+    "useful_info": "It will often employ bite attacks at close-range, while at a distance it will attempt to lunge at you with great leaps. Utilizing the flame sac in its throat, it has been reported that it will release a scorching fire breath when enraged. It is precisely during or following this move that the monster is left susceptible to attacks. Additionally, it can be toppled by breaking its feet. In doing so, its weak head can be safely targeted.",
+    "translations": {
+      "ANJANATH_FANG_1": "Anjanath Fang",
+      "ANJANATH_NOSEBONE_1": "Anjanath Nosebone",
+      "ANJANATH_PLATE_1": "Anjanath Plate",
+      "ANJANATH_RIFTBORNE_MATERIAL": "Anjanath Riftscale",
+      "ANJANATH_SCALE_1": "Anjanath Scale",
+      "ANJANATH_SCALE_3": "Anjanath Primescale",
+      "ANJANATH_TAIL_1": "Anjanath Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "arzuros": {
+    "slug": "arzuros",
+    "description": "This monster primarily makes its habitat in the mountains and forests of humid regions. It has been sighted standing on its hind legs to gather food and catch fish on riverbanks. Boasting sharp claws and a tough shell, it also features well-developed forelegs that grant it high destructive power. It is revered for the deep blue color of its fur.",
+    "useful_info": "In addition to attacks using its arms and claws, it also hurls rocks and charges from a distance. After threatening to lunge, take caution, as it may turn towards you and charge again. Its weak point is its back, so it would be wise to try circling around to attack it. Its arms are the hardest part of its body to damage, but they become more vulnerable when broken. Breaking its body parts also grants a generous opening to launch a counterattack.",
+    "translations": {
+      "ARZUROS_BRACE": "Arzuros Brace",
+      "ARZUROS_CLAW": "Arzuros Claw",
+      "ARZUROS_PELT": "Arzuros Pelt",
+      "ARZUROS_PRIMEBRACE": "Arzuros Primebrace",
+      "ARZUROS_PRIMECLAW": "Arzuros Primepelt",
+      "ARZUROS_SHELL": "Arzuros Shell",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "astalos": {
+    "slug": "astalos",
+    "description": "Large flying wyverns with crest-shaped organs that let them control vast amounts of electricity. Astalos vibrate these organs on their head, forked tail, and brilliant wings to charge the respective body part with electricity, yielding tremendous strength and an amplified attack range. Violent to a fault, witnesses have observed them using all their might to drive intruders from their territory.",
+    "useful_info": "It generates electricity through attacks using its crest, wings and tail, causing the charged body parts to glow green. After it begins to glow, its attacks change: its wing slams will now be followed by electrical discharges, so be sure to dodge with ample time. Also, note that when it roars, the color of its glowing body parts alter, signalling that some of its attacks will now be chained together. When its crest, wings and tail glow simultaneously, it will leap into the air, glide toward you, and land with a wide-area discharge attack. The area directly below it when it leaps is safe. However, its glowing parts are highly susceptible to damage, and attacking them can cancel its charged state. Therefore, targeting the glowing parts before it unleashes its most powerful attack to cancel it is an effective strategy. Furthermore, successfully removing its charged state twice will stagger it, granting an opportunity for a counterattack.",
+    "translations": {
+      "ASTALOS_CREST": "Astalos Crest",
+      "ASTALOS_MEMBRANE": "Astalos Membrane",
+      "ASTALOS_PLATE": "Astalos Plate",
+      "ASTALOS_SCALE": "Astalos Scale",
+      "ASTALOS_SCISSORTAIL": "Astalos Scissortail",
+      "ASTALOS_SHELL": "Astalos Shell",
+      "ASTALOS_WINGTALON": "Astalos Wingtalon",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "aurorasomnacanth": {
+    "slug": "aurorasomnacanth",
+    "description": "Light illuminates the dust scattered around this subspecies, making their fantastical appearance shimmer softly. Aurora Somnacanth sprays icy blasts in place of sleeping powder, attacking all who dare enter their territory. They use the permanent cold emanating from their bodies to freeze the vicinity, and then the frozen surface to move around swiftly.",
+    "useful_info": "It moves by gliding across the ground and closes the distance rapidly while attacking, so you need to be careful even when at a distance. Some of its attacks trigger cold-air explosions around it, so it’s best to give yourself plenty of room to evade. If using a melee weapon, targeting its neck is effective; if using a ranged weapon, you should try targeting the head or its surrounding fins. However, be aware that it’s difficult to land hits on the neck using ranged weapons.",
+    "translations": {
+      "AURORA_SOMNACANTH_ARCHSHELL": "Aurora Somnacanth Archshell",
+      "AURORA_SOMNACANTH_CLAW": "Aurora Somnacanth Claw",
+      "AURORA_SOMNACANTH_FIN": "Aurora Somnacanth Fin",
+      "AURORA_SOMNACANTH_PRIMESCALE": "Aurora Somnacanth Primescale",
+      "AURORA_SOMNACANTH_PRIMESHELL": "Aurora Somnacanth Primeshell",
+      "AURORA_SOMNACANTH_SCALE": "Aurora Somnacanth Scale",
+      "AURORA_SOMNACANTH_SHELL": "Aurora Somnacanth Shell",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "azurerathalos": {
+    "slug": "azurerathalos",
+    "description": "A subspecies of Rathalos bearing a blue-colored shell. It boasts far greater mobility than a normal Rathalos, relying on fierce aerial attacks to catch its prey unawares.",
+    "useful_info": "This monster spends a great deal of time in flight, unleashing barrages of attacks that produce wind pressure. Given this, it would be wise to prepare equipment that negates wind pressure beforehand. If you spot it gathering strength in mid-air, this is a sign that it’s about to expel a powered-up flame breath—avoid this at all costs by dodging to the left or right. This variant’s regular flame breath should not be taken lightly either, as its fire boasts greater attack power and remains on the ground for far longer than that of a normal Rathalos. In addition to the head and wings, the tip of the tail is also a weak point, so do your best to aim for it.",
+    "translations": {
+      "AZURE_RATHALOS_MARROW": "Azure Rathalos Marrow",
+      "AZURE_RATHALOS_PLATE": "Azure Rathalos Plate",
+      "AZURE_RATHALOS_PRIMESCALE": "Azure Rathalos Primescale",
+      "AZURE_RATHALOS_RIFTBORNE_MATERIAL": "Azure Rathalos Riftscale",
+      "AZURE_RATHALOS_SCALE": "Azure Rathalos Scale",
+      "AZURE_RATHALOS_TAIL": "Azure Rathalos Tail",
+      "AZURE_RATHALOS_WINGTALON": "Azure Rathalos Wingtalon",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "banbaro": {
+    "slug": "banbaro",
+    "description": "A monster recognizable by the pair of gigantic horns atop its head. It rushes forward while scraping the ground with its horns, with nearby trees sometimes even getting caught up in its headlong attacks.",
+    "useful_info": "This monster wildly gallops around hunters in all directions. They are especially dangerous when wielding dug-up rocks and fallen trees to attack, so focus heavily on evasion during such instances. If its hindlegs are broken it may topple over mid-lunge, allowing for a chance to enact a counterattack. In addition, by breaking either its hind legs or horns, its soft flesh will be revealed, so focus your assault on these body parts.",
+    "translations": {
+      "BANBARO_GREAT_HORN": "Banbaro Great Horn",
+      "BANBARO_PELT": "Banbaro Pelt",
+      "BANBARO_PRIMESHELL": "Banbaro Primeshell",
+      "BANBARO_RIDGE": "Banbaro Ridge",
+      "BANBARO_RIFTBORNE_MATERIAL": "Banbaro Riftshell",
+      "BANBARO_SHELL": "Banbaro Shell",
+      "BANBARO_TAIL": "Banbaro Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "barioth": {
+    "slug": "barioth",
+    "description": "A white-colored flying wyvern noted for the massive fangs protruding from its mouth. It skillfully uses the spike-like scales adorning its forelegs and tail to freely run across slippery ice.",
+    "useful_info": "This monster taunts hunters with its wildly varying movements, while also being capable of flight. Perfect timing is required if you wish to evade its swift strikes. An opening to attack it can be created if the spikes on its wings are broken, with blunt-type weapons being the most effective method for achieving this.",
+    "translations": {
+      "AMBER_FANG": "Amber Fang",
+      "BARIOTH_CLAW": "Barioth Claw",
+      "BARIOTH_PRIMECLAW": "Barioth Primeclaw",
+      "BARIOTH_RIFTBORNE_MATERIAL": "Barioth Riftshell",
+      "BARIOTH_SHELL": "Barioth Shell",
+      "BARIOTH_SPIKE": "Barioth Spike",
+      "BARIOTH_TAIL": "Barioth Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "barroth": {
+    "slug": "barroth",
+    "description": "Perhaps in order to shield itself from hot temperatures, this monster is most often seen lurking beneath pools of mud. It has also been known to use the mud it cloaks itself in as a means of attacking, so exercise caution. Somewhat fastidious about its swamp, should the marsh be disturbed in any way, it will rush with reckless abandon towards the perpetrator.",
+    "useful_info": "This monster is left open following its headlong rush attack, allowing for its weak forelegs to be targeted, or for it to be toppled by breaking its hind legs. This monster is also known to attack by strewing and flinging mud. As such, though fire element weapons are effective against it, it may be wise to employ water element attacks so as to remove the hardened mud that bolsters its defenses.",
+    "translations": {
+      "BARROTH_CLAW_1": "Barroth Claw",
+      "BARROTH_RIFTBORNE_MATERIAL": "Barroth Riftshell",
+      "BARROTH_SCALP_1": "Barroth Scalp",
+      "BARROTH_SHELL_1": "Barroth Shell",
+      "BARROTH_SHELL_3": "Barroth Ridge",
+      "BARROTH_SHELL_4": "Barroth Primeshell",
+      "BARROTH_TAIL_1": "Barroth Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "basarios": {
+    "slug": "basarios",
+    "description": "A monster characterized by its hard, ore-like outer shell. It has a tendency to hide underground and mimic rock formations. Its sturdy outer carapace grants it the ability to perform devastating thrusts and blows. On occasion, it may also emit a noxious gas.",
+    "useful_info": "Due to its hard exterior, it will be difficult to inflict damage on this monster. As such, it would be more effective to target its much softer stomach, legs or tail. Additionally, during some attacks, its head, stomach and back may enter a superheated state. While glowing red-hot, these parts soften and become vulnerable to attacks. It may also occasionally attempt to strike at you from underground—this is an excellent opportunity to break parts, as well as inflict paralysis, sleep or stun status upon it to create an opening.",
+    "translations": {
+      "BASARIOS_PLEURA": "Basarios Pleura",
+      "BASARIOS_PRIMEPLEURA": "Basarios Primepleura",
+      "BASARIOS_PRIMEWING": "Basarios Primewing",
+      "BASARIOS_SHELL": "Basarios Shell",
+      "BASARIOS_TAIL": "Basarios Tail",
+      "BASARIOS_WING": "Basarios Wing",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "bazelgeuse": {
+    "slug": "bazelgeuse",
+    "description": "A large monster that scours the lands in search of prey. It hunts by dispersing explosive scales that engulf everything within their blast radius.",
+    "useful_info": "This monster scatters the explosive scales stored in its head and tail as it attacks. Once the scales land on the ground, they will eventually explode, either after a certain amount of time has passed or as a result of the monster’s actions. When it begins to glow red and enters into a superheated state, these scales will start to explode immediately, further increasing its offensive pressure. However, the amount of scales which it fires off decreases the more times it uses them. As such, take note of the number of scales being dispersed and plan your counterattack accordingly. You may also actively reduce the number of scales it scatters by breaking its head or tail. Additionally, stunning it, breaking its body parts or inflicting status ailments while it is airborne can cause it to come crashing to the ground, removing all of the scales lodged in its head and tail. Alternatively, you can achieve the same effect by inflicting enough damage to its legs, causing it to topple over. It can therefore be said that the key to successfully slaying this monster is to focus on removing its explosive scales.",
+    "translations": {
+      "BAZELGEUSE_CLAW": "Bazelgeuse Claw",
+      "BAZELGEUSE_GLANDFLUX": "Bazelgeuse Glandflux",
+      "BAZELGEUSE_PLATE": "Bazelgeuse Plate",
+      "BAZELGEUSE_RIFTBORNE_MATERIAL": "Bazelgeuse Riftscale",
+      "BAZELGEUSE_SCALE": "Bazelgeuse Scale",
+      "BAZELGEUSE_SHELL": "Bazelgeuse Shell",
+      "BAZELGEUSE_TAIL": "Bazelgeuse Tail",
+      "BAZELGEUSE_WING": "Bazelgeuse Wing",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "beotodus": {
+    "slug": "beotodus",
+    "description": "A piscine wyvern that uses the sharp fin on its head to cut through the frozen soil, swimming freely through the snow. Can often be seen hurling snow at its prey using its leg fins.",
+    "useful_info": "This monster attacks with the fin-like horn protruding from its head. It also covers its head, body and tail in snow, making these parts difficult to damage, so try to focus on removing the snow first. Its range also becomes narrower after doing so, letting you circle around it to take advantage. Note that fire element attacks are particularly effective against this monster. Removing the snow from its body will make it vulnerable to part breaking, and breaking certain parts can pull it aboveground from under the snow. While it is submerged in the snow, its hind legs become its biggest weak point, so focus your attacks toward them. In addition, inflicting sleep, paralysis or stun upon it can bring it out from underneath the snow, leaving it immediately vulnerable.",
+    "translations": {
+      "BEOTODUS_CARAPACE": "Beotodus Carapace",
+      "BEOTODUS_FIN": "Beotodus Fin",
+      "BEOTODUS_HORN": "Beotodus Horn",
+      "BEOTODUS_PRIMEFIN": "Beotodus Primefin",
+      "BEOTODUS_PRIMESCALE": "Beotodus Primescale",
+      "BEOTODUS_SCALE": "Beotodus Scale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "bishaten": {
+    "slug": "bishaten",
+    "description": "A monster with a distinctive tail. While it is omnivorous, it has a preference for fruit, and keeps various fruits with all kinds of effects in its belly pouch. An incredibly curious beast, it enjoys playing tricks on people, and has been seen to bat fruit at its prey using its tail.",
+    "useful_info": "This monster attacks using fruit that it either throws or smashes onto the ground. Some fruit may cause abnormal status conditions such as poison or paralysis, while others may blind its prey with a sudden flash of light. In conjunction with its deft footwork, this monster moves in a variety of unique ways, such as when it stands on its tail and spins around. As it is difficult to read its attack patterns, it would be wise to keep your distance and watch for the end of its attack before going on the offensive. When it stands on its tail, you can send it toppling to the ground by breaking its tail, giving you an opportunity to attack. If you can break its tail before it takes this stance, it will immediately fall over upon trying to do so, creating an even larger opening. Additionally, some of its attacks unleash wind pressure, so it is advisable to load up on wind resistance skills before hunting.",
+    "translations": {
+      "BISHATEN_FEATHER": "Bishaten Feather",
+      "BISHATEN_FUR": "Bishaten Fur",
+      "BISHATEN_HORN": "Bishaten Horn",
+      "BISHATEN_PRIMEFEATHER": "Bishaten Primefeather",
+      "BISHATEN_PRIMEHORN": "Bishaten Primehorn",
+      "BISHATEN_RIFTBORNE_MATERIAL": "Bishaten Riftfur",
+      "BISHATEN_TAILCASE": "Bishaten Tailcase",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "blackdiablos": {
+    "slug": "blackdiablos",
+    "description": "Female specimen whose entire body has turned black in preparation for the mating season. The dark black tone of their carapace acts as a warning color to other monsters, belying the unusually aggressive nature of this monster compared to its regular counterpart.",
+    "useful_info": "Upon mustering its strength, it will violently charge towards hunters with an onslaught of attacks. As such, those unaccustomed to hunting this monster ought to focus heavily on evasion. On the contrary, experienced hunters will look for a chance to cancel its consecutive flurry of attacks by breaking its body parts.",
+    "translations": {
+      "BLACK_DIABLOS_FANG": "Black Diablos Fang",
+      "BLACK_DIABLOS_MARROW": "Black Diablos Marrow",
+      "BLACK_DIABLOS_PRIMESHELL": "Black Diablos Primeshell",
+      "BLACK_DIABLOS_RIDGE": "Black Diablos Ridge",
+      "BLACK_DIABLOS_RIFTBORNE_MATERIAL": "Black Diablos Riftshell",
+      "BLACK_DIABLOS_SHELL": "Black Diablos Shell",
+      "BLACK_DIABLOS_TAILCASE": "Black Diablos Tailcase",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "brachydios": {
+    "slug": "brachydios",
+    "description": "This marine-blue brute wyvern uses its saliva to prime the sticky slime coating its body, rendering it highly explosive.",
+    "useful_info": "The slime coating Brachydios causes the blastscourge status abnormality when it adheres to a hunter. It explodes either upon taking damage or after a certain amount of time has passed, but the effect can be canceled by evading. When Brachydios roars, the slime on its body turns yellow, and from that point on, any slime stuck to the ground will explode immediately. Similarly, once Brachydios itself is affected by the blastscourge status, explosions will occur more frequently, and it becomes more dangerous, making use of long-range attacks that scatter slime over a wide area. However, water element attacks can remove the slime from Brachydios’s front legs, serving as a means to counteract both the blastscourge status and the slime on the ground.",
+    "translations": {
+      "BRACHYDIOS_ARCHSCALP": "Brachydios Archscalp",
+      "BRACHYDIOS_EBONSHELL": "Brachydios Ebonshell",
+      "BRACHYDIOS_HAMMER": "Brachydios Hammer",
+      "BRACHYDIOS_MARROW": "Brachydios Marrow",
+      "BRACHYDIOS_SCALP": "Brachydios Scalp",
+      "BRACHYDIOS_SHELL": "Brachydios Shell",
+      "BRACHYDIOS_TAIL": "Brachydios Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "brutetigrex": {
+    "slug": "brutetigrex",
+    "description": "Blackish brown scales and a stronger roar set this Tigrex subspecies apart. Extremely aggressive, even by Tigrex standards.",
+    "useful_info": "This subspecies unleashes its powerful roars far more frequently than a regular Tigrex, often doing so after charging at you, and in quick succession. The danger lies in its ability to chain together attacks starting with a short roar, following this up with leaping attacks, rock-throwing, and additional roars. If affected by one of its short-duration roars, you will be unable to avoid its upcoming attacks, so the use of the Earplugs skill is imperative. Furthermore, if you spot its body turning red as it roars, this means that it will let forth a wide-ranging sweeping roar. However, you may impede the effective range of its roars by breaking its head, which will also make it incapable of performing its sweeping roar. Additionally, breaking one of its forelegs can cause it to topple over.",
+    "translations": {
+      "BRUTE_TIGREX_CLAW": "Brute Tigrex Claw",
+      "BRUTE_TIGREX_FANG": "Brute Tigrex Fang",
+      "BRUTE_TIGREX_PLATE": "Brute Tigrex Plate",
+      "BRUTE_TIGREX_SCALE": "Brute Tigrex Scale",
+      "BRUTE_TIGREX_SCALP": "Brute Tigrex Scalp",
+      "BRUTE_TIGREX_SHELL": "Brute Tigrex Shell",
+      "BRUTE_TIGREX_TAIL": "Brute Tigrex Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "chameleos": {
+    "slug": "chameleos",
+    "description": "A seldom-witnessed elder dragon. In the rare event that it is sighted, it has been said to have the ability to vanish before one’s very eyes. It has also been observed to exhale a special fog-like breath. Its unique abilities and eccentric movements are unmatched by any other monster.",
+    "useful_info": "A monster capable of rendering itself invisible through camouflage. While invisible it cannot be locked onto. Once half of its health has been depleted, it will envelop the field in fog and its movement speed will increase, making it even harder to land a hit on. However, if you can manage to damage it enough times in succession, it will recoil heavily and become visible again. Breaking its horn will inhibit its camouflaging ability. It primarily attacks using its breath that can produce a thick fog, as well as toxic clouds. This venom may remain for a prolonged period of time, so be sure not to touch it. Chameleos also unleashes its poisonous breath in a wide range, sometimes using its wings to draw in or push the clouds away. It tends to telegraph this action in advance, however, so be sure to either move far away or be on the defensive when it starts to violently stamp its feet. In addition, this monster may use its tail to produce dragon wind pressure powerful enough to send boulders flying—this attack can be weakened by severing its tail. Perhaps its most unique attack is the ability to siphon your Special Gauge using its tongue, allowing it to immediately spew forth a now orange-tinted fog breath.",
+    "translations": {
+      "CHAMELEOS_BONE": "Chameleos Bone",
+      "CHAMELEOS_HIDE": "Chameleos Hide",
+      "CHAMELEOS_HORN": "Chameleos Horn",
+      "CHAMELEOS_TAIL": "Chameleos Tail",
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "chatacabra": {
+    "slug": "chatacabra",
+    "description": "This amphibian monster uses its long tongue to lick and eat a wide variety of things. Its well-developed forelegs retain a sticky mucus that causes stones and sand to adhere to its body when it rubs them along the ground. This drastically increases the range and power of its attacks.",
+    "useful_info": "Though great caution should be taken towards its long tongue, this soft appendage also acts as its weak point. Keep an eye out for the openings it leaves when it grows fatigued, as well as after it unleashes a string of attacks. Breaking the accumulated matter stuck to its forelegs can also grant ample opportunity to launch a counterattack.",
+    "translations": {
+      "CHATACABRA_HIDE": "Chatacabra Hide",
+      "CHATACABRA_JAW": "Chatacabra Jaw",
+      "CHATACABRA_PRIMESCALE": "Chatacabra Primescale",
+      "CHATACABRA_PRIMESHELL": "Chatacabra Primeshell",
+      "CHATACABRA_SCALE": "Chatacabra Scale",
+      "CHATACABRA_SHELL": "Chatacabra Shell",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "coralpukeipukei": {
+    "slug": "coralpukeipukei",
+    "description": "A type of bird wyvern that stores large quantities of water in its body. It launches powerful water attacks from its mouth and tail. Considered a subspecies of Pukei-Pukei.",
+    "useful_info": "This monster attacks by unleashing a barrage of water attacks from long range. Remaining at a distance will leave you vulnerable to its most dangerous attacks, so it would be prudent to move in to close quarters. By breaking its head, some of its water attacks may be considerably weakened. Furthermore, any water attacks performed using its tail may be halted by severing the tail.",
+    "translations": {
+      "CORAL_PUKEIPUKEI_PRIMESCALE": "Coral Pukei-Pukei Primescale",
+      "CORAL_PUKEIPUKEI_QUILL": "Coral Pukei-Pukei Quill",
+      "CORAL_PUKEIPUKEI_SAC": "Coral Pukei-Pukei Sac",
+      "CORAL_PUKEIPUKEI_SCALE": "Coral Pukei-Pukei Scale",
+      "CORAL_PUKEIPUKEI_SHELL": "Coral Pukei-Pukei Shell",
+      "CORAL_PUKEIPUKEI_TAIL": "Coral Pukei-Pukei Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "deviljho": {
+    "slug": "deviljho",
+    "description": "A monster whose rapid metabolism makes it so that it is incessantly scouring for its next meal. Infamous for its viciousness, it will attempt to sink its teeth into anything that moves.",
+    "useful_info": "In order to halt this monster’s movements you must keep up the offensive, so weapons which offer continous damage output are recommended. When it gets fired up, its skin turns red, and its attack patterns and weaknesses change. In this state, it will exhale breath emissions over wide arcs in front of it and in tandem with its bites. If you continue to attack it during this riled-up state, you may be able to topple it, causing it to eventually calm down. The hide on its head is usually soft, but almost its entire body hardens as it becomes enraged, leaving only its chest vulnerable.",
+    "translations": {
+      "DEVILJHO_HIDE": "Deviljho Hide",
+      "DEVILJHO_PRIMEHIDE": "Deviljho Primehide",
+      "DEVILJHO_RIFTBORNE_MATERIAL": "Deviljho Riftscale",
+      "DEVILJHO_SALIVA": "Deviljho Saliva",
+      "DEVILJHO_SCALE": "Deviljho Scale",
+      "DEVILJHO_SCALP": "Deviljho Scalp",
+      "DEVILJHO_TAIL": "Deviljho Tail",
+      "DEVILJHO_TALON": "Deviljho Talon",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "diablos": {
+    "slug": "diablos",
+    "description": "A desert-dwelling monster feared for its ferocity. Two distinctive, twisted horns protrude from its skull. Fiercely territorial, it uses its remarkable hearing to sense overhead intruders while burrowed underground, attacking them without discrimination. In spite of this, it is a strict herbivore, primarily feeding on desert cacti.",
+    "useful_info": "The sheer destructive power of its colossal horns and thrusts from underground should not be taken lightly. However, they also leave this monster susceptible to counterattacks. Carefully sneak around it and try to aim for its vulnerable stomach.",
+    "translations": {
+      "DIABLOS_FANG_1": "Diablos Fang",
+      "DIABLOS_MARROW_1": "Diablos Marrow",
+      "DIABLOS_RIDGE_1": "Diablos Ridge",
+      "DIABLOS_RIFTBORNE_MATERIAL": "Diablos Riftshell",
+      "DIABLOS_SHELL_1": "Diablos Shell",
+      "DIABLOS_SHELL_3": "Diablos Primeshell",
+      "DIABLOS_TAILCASE_1": "Diablos Tailcase",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "ebonyodogaron": {
+    "slug": "ebonyodogaron",
+    "description": "A subspecies of Odogaron that prowls the land in search of its next meal. This variant is significantly more ferocious than its regular counterpart and has been spotted emitting black smoke from its mouth.",
+    "useful_info": "In addition to using breath attacks, this subspecies boasts quicker and more powerful series of attacks compared to a regular Odogaron. Since each of its attacks are unleashed in quick succession, it would be wise to make use of every opening it leaves and launch a counterattack. Its bite is far more destructive than that of a regular species, and its sharp claws can cause bleeding when it attacks with its front legs. However, it is possible to weaken this monster by destroying both its head and forelegs.",
+    "translations": {
+      "EBONY_ODOGARON_CLAW": "Ebony Odogaron Claw",
+      "EBONY_ODOGARON_PLATE": "Ebony Odogaron Plate",
+      "EBONY_ODOGARON_PRIMESCALE": "Ebony Odogaron Primescale",
+      "EBONY_ODOGARON_SCALE": "Ebony Odogaron Scale",
+      "EBONY_ODOGARON_SINEW": "Ebony Odogaron Sinew",
+      "EBONY_ODOGARON_TAIL": "Ebony Odogaron Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "espinas": {
+    "slug": "espinas",
+    "description": "Flying Wyverns known for the red spikes on their tough green frame, forming both a means of attack and defense, thus generally keeping foes at bay. As a result, they are often seen sprawled out and relaxing in their domain. Once they sense danger, however, they expand their blood vessels to turn their hide and wing membranes a bright red, and they will run riot with noteworthy brutality.",
+    "useful_info": "Under normal circumstances, its hide is tough and difficult to attack. However, after roaring, its flesh softens, making it easier to deal damage. This is the only state in which you can break its body parts, but note that it will also start to employ powerful attacks such as consecutive charge attacks and five back-to-back breath attacks after leaping rearward, so caution is required. Additionally, it can also exhale breath attacks that cause paralysis and poison. The poison will remain at the point it lands at, so be mindful of where you step. Furthermore, even if you move behind an Espinas, it can perform wide-range sweeps and tail smashes. As such, it may be better to wait for an opportunity at its feet rather than attacking from the front or back, and aim for any openings it reveals after its attacks end.",
+    "translations": {
+      "ESPINAS_HORN": "Espinas Horn",
+      "ESPINAS_PLATE": "Espinas Plate",
+      "ESPINAS_PRIMESCALE": "Espinas Primescale",
+      "ESPINAS_SCALE": "Espinas Scale",
+      "ESPINAS_SHELL": "Espinas Shell",
+      "ESPINAS_SPIKE": "Espinas Spike",
+      "ESPINAS_TAIL": "Espinas Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "fulguranjanath": {
+    "slug": "fulguranjanath",
+    "description": "A subspecies of Anjanath. It accumulates electricity in the membranes of its mouth and back with each attack, using this energy to bolster its exterior.",
+    "useful_info": "When a Fulgur Anjanath enters into an electrified state, it will discharge jolts when it attacks, and its attack range becomes wider. In addition to its charging attacks, it also expels mucus, so be careful even at long range. After roaring, they launch a series of attacks, including a wide-range mucus shot and jumping on you while electrified. However, while electrified, water element attacks are extremely effective. The electrified state can be removed by breaking its weak point: its head. If it is difficult to aim at the moving head, breaking the back legs will cause the monster to go down, creating a large opening.",
+    "translations": {
+      "FULGUR_ANJANATH_FANG": "Fulgur Anjanath Fang",
+      "FULGUR_ANJANATH_NOSEBONE": "Fulgur Anjanath Nosebone",
+      "FULGUR_ANJANATH_PELT": "Fulgur Anjanath Pelt",
+      "FULGUR_ANJANATH_PLATE": "Fulgur Anjanath Plate",
+      "FULGUR_ANJANATH_PRIMESCALE": "Fulgur Anjanath Primescale",
+      "FULGUR_ANJANATH_SCALE": "Fulgur Anjanath Scale",
+      "FULGUR_ANJANATH_TAIL": "Fulgur Anjanath Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "garangolm": {
+    "slug": "garangolm",
+    "description": "A monster characterized by its massive and rigid body. Garangolm are generally placid, living in regions with fertile soil. Their sap-like fluids can promote plant growth, forging a symbiotic relationship with flora that grows on their bodies. They can also use that sap to harden plants or the surrounding soil outfitting their bodies and enhancing their attacks.",
+    "useful_info": "This monster attacks in large swings that leave it open to counterattacks. One attack of note is its leaping body press attack that causes major tremors—this can be easily avoided by maintaining your distance, offering an exploitable opening. When it slams the ground and roars, its front limbs and head become covered in debris, hardening its hide. Its mobility also increases, and its starts to perform even fiercer attacks, such as overturning rock formations. When covered in debris, its front limbs each inflict different elements, with the right limb’s attacks causing blastblight. However, these debris-covered front limbs are in fact highly susceptible to elemental attacks, with the left limb being weak to the thunder element and the right limb being weak to water attacks. Additionally, destroying the parts covered in debris can knock it down and create an opening. When it lets out a loud roar and digs up a large rock from the ground, this signals that it’s about to unleash a powerful attack. This attack cannot be guarded against and causes a wide-range explosion, so it would be wise to focus on dodging.",
+    "translations": {
+      "GARANGOLM_FIST": "Garangolm Fist",
+      "GARANGOLM_PRIMEFIST": "Garangolm Primefist",
+      "GARANGOLM_PRIMESCALE": "Garangolm Primescale",
+      "GARANGOLM_SCALE": "Garangolm Scale",
+      "GARANGOLM_SHELL": "Garangolm Shell",
+      "GARANGOLM_TAIL": "Garangolm Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "glavenus": {
+    "slug": "glavenus",
+    "description": "A monster that wields a colossal blade-like tail. With each successive attack, its tail becomes hotter and sharper. After some time, its red-hot tail will start to cool down, eventually beginning to rust. However, Glavenus will sharpen it using its fangs, appearing to store the waste material in its throat to use for its flame breath attack.",
+    "useful_info": "Glavenus will bash you with its tail, while also dragging it along the ground to produce flames using friction. Positioning yourself behind this monster will put you at a huge disadvantage, so try circling around to the left or right instead. When its tail is heated up its attacks will become ever the more powerful, but this state also makes its tail softer and vulnerable to being severed. Once its tail has cooled down, it will begin to rust, which makes the tail hard again. If you spot it nibbling at its heated-up tail, watch out, as this means it’s about to unleash a devastating wide-range cleave attack. If, however, you see it doing this while the tail is rusted, this means that it’s trying to remove the rust—an excellent opportunity to launch your counterattack.",
+    "translations": {
+      "GLAVENUS_BONE": "Glavenus Bone",
+      "GLAVENUS_FANG": "Glavenus Fang",
+      "GLAVENUS_PLATE": "Glavenus Plate",
+      "GLAVENUS_PYROSHELL": "Glavenus Pyroshell",
+      "GLAVENUS_RIFTBORNE_MATERIAL": "Glavenus Riftscale",
+      "GLAVENUS_SCALE": "Glavenus Scale",
+      "GLAVENUS_SHELL": "Glavenus Shell",
+      "GLAVENUS_TAILEDGE": "Glavenus Tailedge",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "goldrathian": {
+    "slug": "goldrathian",
+    "description": "A rare gleaming gold-scaled Rathian species. When wreathed in hellfire, its breath grows more lethal and its tail swipes have greater range.",
+    "useful_info": "It has very high mobility and its tail contains venom far more powerful than the poison of a normal Rathian or Pink Rathian. After a certain amount of time, it envelopes itself in hellfire, unleashing blue flames and intensifying its attacks. The flames from its fire breath remain for a long time, and will instantly explode if hit by its skyborne fire breath attack, so it would be wise to remain cautious even when it is in flight. When covered in hellfire, its head softens to become a weak point. Search for whatever openings you can find, such as when it lunges, or following its tail attack.",
+    "translations": {
+      "GOLD_RATHIAN_PLATE": "Gold Rathian Plate",
+      "GOLD_RATHIAN_PRIMESCALE": "Gold Rathian Primescale",
+      "GOLD_RATHIAN_PRIMEWEBBING": "Gold Rathian Primewebbing",
+      "GOLD_RATHIAN_SCALE": "Gold Rathian Scale",
+      "GOLD_RATHIAN_SHELL": "Gold Rathian Shell",
+      "GOLD_RATHIAN_SPIKE": "Gold Rathian Spike",
+      "GOLD_RATHIAN_WEBBING": "Gold Rathian Webbing",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "gossharag": {
+    "slug": "gossharag",
+    "description": "A monster native to ice-cold climates. Covered in fur so thick it keeps out the harsh frost, it roams the snowy plains in search of prey. It can inhale the cold air to freeze its own bodily fluids and then spit them out to create icy blades on its arms. When riled up, the Goss Harag turns red and becomes exceedingly dangerous.",
+    "useful_info": "Roaring causes its entire body to turn red and enter an overheated state. While its defenses are lowered significantly during this phase, its weakness to fire element attacks is reduced, making high-damage weapons the optimal path to victory. After overheating, it will envelop its arms in ice following either a cold breath attack or after a certain amount of time has passed, rendering it even more ferocious. These icy coats come in two types: ice blades and ice fists. Its ice blades utilize long reach, while its ice fists deliver powerful, heavy strikes. Be especially cautious when it jumps, as when it lands, the impact will cause the ground in front of it to splinter and erupt. Timing your dodges to the left or right is key. Breaking the ice-coated body parts will topple it. Furthermore, inflicting status abnormalities like paralysis, sleep or stun will remove the ice-coating effect.",
+    "translations": {
+      "GOSSHARAG_BRACE": "Goss Harag Brace",
+      "GOSSHARAG_CLAW": "Goss Harag Claw",
+      "GOSSHARAG_FUR": "Goss Harag Fur",
+      "GOSSHARAG_HIDE": "Goss Harag Hide",
+      "GOSSHARAG_HORN": "Goss Harag Horn",
+      "GOSSHARAG_PRIMEFUR": "Goss Harag Primefur",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "great-girros": {
+    "slug": "great-girros",
+    "description": "This carnivorous monster prowls its territory, seeking out prey. It takes down its target using the paralytic toxins secreted from its large fangs.",
+    "useful_info": "Using the paralytic fluid in its fangs, as well as its paralyzing breath, it is adept at immobilizing would-be hunters. However, given its propensity towards moving in straight lines, well-timed dodges to the left or right can allow for a counterattack to its vulnerable head.",
+    "translations": {
+      "GREATGIRROS_FANG_1": "Great Girros Fang",
+      "GREATGIRROS_FANG_3": "Great Girros Primefang",
+      "GREATGIRROS_FOOD_1": "Great Girros Hood",
+      "GREATGIRROS_SCALE_1": "Great Girros Scale",
+      "GREATGIRROS_SCALE_3": "Great Girros Primescale",
+      "GREATGIRROS_TAIL_1": "Great Girros Tail",
+      "GREAT_GIRROS_RIFTBORNE_MATERIAL": "Great Girros Riftscale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "great-jagras": {
+    "slug": "great-jagras",
+    "description": "The leader of a pack of Jagras. Renowned for their voracious appetite, they will mercilessly assault even monsters higher up in the food chain. The sight of it devouring its prey whole is one to behold.",
+    "useful_info": "Making use of its expanding stomach, it boldly attempts to trap hunters by rolling on top of them. By focusing your assault on its stomach, it will promptly empty the contents of it, leaving the monster in a stunned state where its weak head can be targeted.",
+    "translations": {
+      "FANG_WYVERN_GEM_1": "Fanged Wyvern Gem",
+      "GREATJAGRAS_CLAW_1": "Great Jagras Claw",
+      "GREATJAGRAS_HIDE_1": "Great Jagras Hide",
+      "GREATJAGRAS_MANE_1": "Great Jagras Mane",
+      "GREATJAGRAS_SCALE_1": "Great Jagras Scale",
+      "GREATJAGRAS_SCALE_3": "Great Jagras Primescale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "great-wroggi": {
+    "slug": "great-wroggi",
+    "description": "Wroggi are bird wyverns that travel in packs that are led by the largest and most toxic member. Be careful when one raises its head and its poison sac expands—that signals that it’s about to spit a cloud of poisonous mist.",
+    "useful_info": "This monster will taunt you with its movements, attacking mainly via its toxic fog breath that can inflict poison status. The breath it exhales after back-stepping is particularly dangerous, as it cannot be blocked. Attacking from the front is inadvisable, so try to circle around it to avoid its breath, then inflict damage while evading its lethal tail attacks.",
+    "translations": {
+      "GREAT_WROGGI_BONE": "Great Wroggi Bone",
+      "GREAT_WROGGI_CLAW": "Great Wroggi Claw",
+      "GREAT_WROGGI_HIDE": "Great Wroggi Hide",
+      "GREAT_WROGGI_PRIMEBONE": "Great Wroggi Primebone",
+      "KINGS_BEAK": "King's Beak",
+      "KINGS_PRIMEBEAK": "King's Primebeak",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "jyuratodus": {
+    "slug": "jyuratodus",
+    "description": "A piscine wyvern that makes its habitat in muddy swamps. It has a tendency to use mud as a means by which to both camouflage itself and hunt with. It is believed that they coat themselves with mud in order to restore moisture to their scales, which grow brittle and inhibit cutaneous respiration when dehydrated. Exercise caution should you come across the mud which Jyuratodus spits out, as its high viscosity can easily restrict body movement.",
+    "useful_info": "Though the hardened mud that cakes its body renders attacks ineffective, this dirt can be scrubbed away using water element weapons. It relentlessly uses mud to its advantage by flinging or spitting it, as well as diving and lunging from within it, so try whittling down its stamina with attacks, or breaking its body parts in order to keep it above ground. Its head is its weak point.",
+    "translations": {
+      "JYURATODUS_FANG_1": "Jyuratodus Fang",
+      "JYURATODUS_FIN_1": "Jyuratodus Fin",
+      "JYURATODUS_RIFTBORNE_MATERIAL": "Jyuratodus Riftscale",
+      "JYURATODUS_SCALE_1": "Jyuratodus Scale",
+      "JYURATODUS_SCALE_3": "Jyuratodus Primescale",
+      "JYURATODUS_SHELL_1": "Jyuratodus Shell",
+      "JYURATODUS_SHELL_3": "Jyuratodus Primeshell",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "khezu": {
+    "slug": "khezu",
+    "description": "This monster’s sight has degenerated over time, but it compensates for this with its well-honed sense of smell. Its tail has evolved to resemble some kind of suction cup. It paralyzes prey using the electricity-generating organ in its body, before moving in to strike with its extendable neck.",
+    "useful_info": "This monster will assail you with unpredictable attacks using its prehensile neck. Its breath attack that spreads along the ground cannot be guarded against, and will induce paralysis if it connects. Strong specimens will mix their electric and bite attacks in difficult-to-predict patterns. However, its movements are slow, so its attacks can be easily avoided with due caution.",
+    "translations": {
+      "KHEZU_FLABBY_HIDE": "Flabby Hide",
+      "KHEZU_FLABBY_PRIMEHIDE": "Flabby Primehide",
+      "KHEZU_PALE_BONE": "Pale Bone",
+      "KHEZU_PALE_EXTRACT": "Pale Extract",
+      "KHEZU_PALE_PRIMEBONE": "Pale Primebone",
+      "KHEZU_RIFTBORNE_MATERIAL": "Flabby Rifthide",
+      "KHEZU_SUSPICIOUS_FANG": "Suspicious Fang",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "kirin": {
+    "slug": "kirin",
+    "description": "Although classified as an elder dragon, it is a monster so exceedingly rare that almost nothing is known about it, lending it an almost mythical quality. It is said to be able to manipulate electricity, coating its entire body in lightning.",
+    "useful_info": "Be wary of its lightning attacks that can inflict paralysis. After jumping sideways and rushing towards you, its movements will briefly slow down, giving you a chance to strike back. When its health is reduced by half, it will coat itself in electricity, boosting its attack and defense, as well as the amount of lightning it discharges. In this state, it will also emit lightning along the ground that cannot be guarded against. You can, however, weave between the gaps in the lightning while focusing on evasion. Attacks from dragon element weapons can make it flinch: this will knock it down to a charged state if it’s enveloped in lightning, or completely remove the electric charge if it’s already in a charged state.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "KIRIN_ELECTROGEM": "Kirin Electrogem",
+      "KIRIN_HIDE": "Kirin Hide",
+      "KIRIN_MANE": "Kirin Mane",
+      "KIRIN_THUNDERHORN": "Kirin Thunderhorn",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "kulu-ya-ku": {
+    "slug": "kulu-ya-ku",
+    "description": "A bird wyvern adept at grasping objects with its well-developed forelegs. There have been sightings of it plundering eggs from other monsters, but it will often drop them in surprise if attacked. When engaged in battle, it has a propensity to unearth sturdy rocks which it then uses as a weapon or shield.",
+    "useful_info": "There have been reported sightings of this monster utilizing dug-out boulders as a means of offense. Given that frontal attacks will be met with this hard rock, it is advisable to strike from the side. However, its vulnerable forelegs and head can be broken in order to force it to drop its rock.",
+    "translations": {
+      "KULUYAKU_BEAK_1": "Kulu-Ya-Ku Beak",
+      "KULUYAKU_HIDE_1": "Kulu-Ya-Ku Hide",
+      "KULUYAKU_HIDE_3": "Kulu-Ya-Ku Primehide",
+      "KULUYAKU_PLUME_1": "Kulu-Ya-Ku Plume",
+      "KULUYAKU_SCALE_1": "Kulu-Ya-Ku Scale",
+      "KULUYAKU_SCALE_3": "Kulu-Ya-Ku Primescale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "kushala-daora": {
+    "slug": "kushala-daora",
+    "description": "An elder dragon veiled in fierce winds, which calls forth storms to keep any approachers at bay. Its entire body is reinforced by hard, steel-like scales.",
+    "useful_info": "While this monster is surrounded by wind, long-range attacks will have little effect, and it will be difficult to approach. If its head is broken, it will no longer be able to project this wind. Alternatively, its wind veil may be temporarily dissipated by breaking other body parts or by inflicting poison status. It will begin to unleash powerful whirlwinds when it reaches half health, while also becoming more aggressive in its assault. However, part breaking and poison infliction are still effective in this state.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "KUSHALADAORA_HORN": "Daora Horn",
+      "KUSHALADAORA_SCALE": "Daora Scale",
+      "KUSHALADAORA_SHELL": "Daora Shell",
+      "KUSHALADAORA_TAIL": "Daora Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "lagombi": {
+    "slug": "lagombi",
+    "description": "This monster is recognizable from its pure white fur and long ears. It has adapted to living in cold climates with its warm fur and thick layers of subcutaneous fat. Although primarily herbivores, Lagombi are known to occasionally eat meat. In such instances, they will use their excellent hearing to locate prey, gliding silently along the snow to catch their target unawares.",
+    "useful_info": "This monster is skilled at moving atop snow. Since they rush forward while crawling on their bellies and sliding on the ground, it is necessary to fight them while maintaining a distance appropriate for the weapon being used. The snow patches created by its snowball attacks make it difficult to perform evasions once stepped into. Therefore, it is necessary to remain in safe positions while attacking its weak head and tail. Stronger specimens may launch three consecutive thrust attacks while sliding along the ground, so be careful when timing your counterattack.",
+    "translations": {
+      "LAGOMBI_EAR": "Lagombi Ear",
+      "LAGOMBI_GIANT_EAR": "Lagombi Giant Ear",
+      "LAGOMBI_ICECLAW": "Lagombi Iceclaw",
+      "LAGOMBI_PELT": "Lagombi Pelt",
+      "LAGOMBI_PLASTRON": "Lagombi Plastron",
+      "LAGOMBI_PRIMEPELT": "Lagombi Primepelt",
+      "LAGOMBI_RIFTBORNE_MATERIAL": "Lagombi Riftpelt",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "legiana": {
+    "slug": "legiana",
+    "description": "This monster has been witnessed in swamp regions, tracking down the herds of Raphinos it preys upon. It hunts by emitting freezing-cold air, which allows it to slow down its target.",
+    "useful_info": "Veiled in frigid air, this monster is capable of a devastating onslaught of attacks. However, it leaves a small window of vulnerability after each assault, so try to determine when its attack combo has ended. It has also been confirmed that poison is highly effective against this monster, preventing it from taking flight and emitting frost-coated attacks. The head is its weak point.",
+    "translations": {
+      "LEGIANA_CLAW_1": "Legiana Claw",
+      "LEGIANA_HIDE_1": "Legiana Hide",
+      "LEGIANA_PLATE_1": "Legiana Plate",
+      "LEGIANA_RIFTBORNE_MATERIAL": "Legiana Riftscale",
+      "LEGIANA_SCALE_1": "Legiana Scale",
+      "LEGIANA_SCALE_3": "Legiana Primescale",
+      "LEGIANA_WING_1": "Legiana Webbing",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "lunagaron": {
+    "slug": "lunagaron",
+    "description": "Lunagaron have an organ that chills the air they inhale, circulating it throughout their body in a unique form of thermoregulation. They can travel long distances and endure environmental changes, allowing them to occupy a wide range of habitats. They usually walk on all fours, but can stand on two legs by shutting down their cooling mechanism, spiking their body temp to expand their muscles.",
+    "useful_info": "When moving on all fours, it will perform swift charging and biting attacks. When it stands on its hind legs, it will deliver powerful attacks with its front legs. After roaring, its eyes will glow red and its claws will become enveloped in sharp ice. In this state, it will unleash a variety of attacks, including combos and leaping breath attacks. However, it sometimes lets forth a howl after attacking, granting you a short window to launch a counterattack. Its head and front legs are vulnerable weak points.",
+    "translations": {
+      "LUNAGARON_CLAW": "Lunagaron Claw",
+      "LUNAGARON_PRIMECLAW": "Lunagaron Primeclaw",
+      "LUNAGARON_PRIMESCALE": "Lunagaron Primescale",
+      "LUNAGARON_SCALE": "Lunagaron Scale",
+      "LUNAGARON_SHELL": "Lunagaron Shell",
+      "LUNAGARON_TAILCASE": "Lunagaron Tailcase",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "magnamalo": {
+    "slug": "magnamalo",
+    "description": "A monster covered in an armor-like carapace. Feeding on the bones of corpses, it accumulates gas in its body that, when emitted, resembles ghostly flames parading around it. If struck by an attack while it is covered in this gas, you will be inflicted with hellfireblight, causing you to explode after a certain period of time.",
+    "useful_info": "It gathers hellfire flames around certain parts of its body, boosting the strength and range of its attacks in this state. These attacks will also inflict hellfireblight. After performing certain actions the hellfire will change color, leading to slight alterations in Magnamalo’s attack patterns. It will also begin to use its strongest move in this state. However, thunder element attacks are effective against the body part shrouded in hellfire. Alternatively, breaking the affected body part will dispel the hellfire entirely.",
+    "translations": {
+      "MAGNAMALO_BLADE": "Magnamalo Blade",
+      "MAGNAMALO_HORN": "Magnamalo Horn",
+      "MAGNAMALO_PLATE": "Magnamalo Plate",
+      "MAGNAMALO_RIFTBORNE_MATERIAL": "Magnamalo Riftshell",
+      "MAGNAMALO_SCALE": "Magnamalo Scale",
+      "MAGNAMALO_SHELL": "Magnamalo Shell",
+      "MAGNAMALO_TAIL": "Magnamalo Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "malzeno": {
+    "slug": "malzeno",
+    "description": "A dragon covered with elegant silver scales. It uses the Qurio to drain the life energy of other living creatures, creeping around at night and attacking its prey from behind. It appears almost regal to start with, but after draining enough energy, it can turn a violent, fresh-blood crimson. This form is known as the “Bloodening” and is widely feared.",
+    "useful_info": "This monster makes use of wide-ranging attacks of great force—however, it leaves itself wide open after each action, providing plenty of chances to launch a counterattack. Be wary of its attacks that inflict the Bloodblight status. Once its health falls below half, it will enter what is known as its “Bloodening” state, as the tips of its front legs and tail begin to glow red. In this form, it will unleash relentless combo attacks and exhibit greater movement speed, able to now close the gap between the two of you in an instant. If it has chosen you as its target, it would be wise to focus on evasion and defense as you wait for an opportunity to strike back. On the other hand, the glowing red body parts seen during its Bloodening state actually act as its weakness, since inflicting enough damage upon them can undo its Bloodening. As such, the goal of the latter half of a Malzeno hunt should be to attack its glowing body parts. Take note that projectiles such as arrows and ammo will have very little effect if aimed at its head.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "MALZENO_HORN": "Malzeno Horn",
+      "MALZENO_SCALE": "Malzeno Scale",
+      "MALZENO_SHELL": "Malzeno Shell",
+      "MALZENO_TAIL": "Malzeno Tail",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "mizutsune": {
+    "slug": "mizutsune",
+    "description": "A monster that has evolved in a unique manner. While classified as a water-based Leviathan, there have been numerous sightings of it residing on land, utilizing its limber and agile body. It mixes a peculiar fluid with its fur to produce bubbles that ensnare its prey. Surrounded by these trails of bubbles as it leaps about with finesse, the sight of it hunting is said to resemble a dance.",
+    "useful_info": "It attacks using secreted bubbles and water. If you are hit by its bubbles, you will be stricken with bubbleblight status, making movement difficult due to slipperiness. If Mizutsune itself is covered in bubbles, some of its attacks will be performed while sliding around. In this state, though it becomes difficult to land your attacks on it, its exterior becomes softer, offering more weak points to exploit. Its bubble-covered state can be dispelled by breaking its head. It has a tendency to telegraph each of its attacks, granting you ample time to judge when to evade. It is also left wide open after exhaling its powerful water element breath.",
+    "translations": {
+      "MIZUTSUNE_CLAW": "Mizutsune Claw",
+      "MIZUTSUNE_PLATE": "Mizutsune Plate",
+      "MIZUTSUNE_PRIMECLAW": "Mizutsune Primeclaw",
+      "MIZUTSUNE_PURPLEFUR": "Mizutsune Purplefur",
+      "MIZUTSUNE_RIFTBORNE_MATERIAL": "Mizutsune Riftfur",
+      "MIZUTSUNE_SCALE": "Mizutsune Scale",
+      "MIZUTSUNE_TAIL": "Mizutsune Tail",
+      "MIZUTSUNE_THICK_PURPLEFUR": "Mizutsune Thick Purplefur",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "namielle": {
+    "slug": "namielle",
+    "description": "An elder dragon that conducts electricity using the water that covers its body. It has its own internal electricity-generating organ. From this, it releases electric shocks into the water it secretes, causing massive explosions.",
+    "useful_info": "The powerful water breath that forms the core of its attack patterns will leave water remaining on the ground. This water explodes following some of its attacks, including its breath attack, so take caution. When its health is depleted to half, it will cover the field in water, then electrify itself. If the field is flooded, some of its attacks may generate vortexes. When Namielle makes use of electricity to attack, its attack range widens, and some of its attacks may cause explosions to occur. However, you can easily avoid these attacks by moving around to its rear. After a certain amount of time has lapsed, Namielle will leap high into the air to prepare for a devastating technique. To avoid the upcoming wide-range explosion attack, it would be wise to distance yourself as much as possible, or focus on the timing of your dodge. Following this technique, both its water and electricity will dissipate, and it will dry up. In this state, it will no longer make use of water or electricity, and its defenses will be lowered, offering an excellent window of opportunity to attack it. You may also dispel its water and leave it vulnerable by using dragon element attacks. However, this will not help you to remove its electricity.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "NAMIELLE_CLAW": "Namielle Claw",
+      "NAMIELLE_HIDE": "Namielle Hide",
+      "NAMIELLE_TAIL": "Namielle Tail",
+      "NAMIELLE_WHISKER": "Namielle Whisker",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "nargacuga": {
+    "slug": "nargacuga",
+    "description": "Flying wyverns that have evolved to live in thickly wooded areas. Covered in jet black fur, these cunning predators stalk their prey from the shadows and attack with ferocious speed.",
+    "useful_info": "A monster that boasts strong legs. It moves swiftly, quickly moving out of range of your attacks, before then closing the gap to counter. Be especially wary of its tail, which can cleave at you from long range, and is covered in spiky scales that can inflict bleeding status. Keep an eye out for when it slams this tail onto the ground—it will take a while for it to pull its tail out of the soil, granting you a chance to counterattack. You can also break its tail, as well as either one of its cutwings to create an opening. In general, however, this monster offers few windows of opportunity to attack, so it would be best to aggressively keep up a continuous assault. After roaring, its eyes will glow red, and it will appear to withdraw its tail, before unleashing strings of attacks instead of singular ones. You can halt this onslaught by putting the monster to sleep—however, this is only a temporary measure, as it will soon awaken.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "NARGACUGA_BLACKFUR": "Nargacuga Blackfur",
+      "NARGACUGA_CUTWING": "Nargacuga Cutwing",
+      "NARGACUGA_FANG": "Nargacuga Fang",
+      "NARGACUGA_MARROW": "Nargacuga Marrow",
+      "NARGACUGA_SCALE": "Nargacuga Scale",
+      "NARGACUGA_TAIL": "Nargacuga Tail",
+      "NARGACUGA_TAILSPIKE": "Nargacuga Tailspike",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "nergigante": {
+    "slug": "nergigante",
+    "description": "An elder dragon recognizable by its gigantic horns, massive wings and the countless spikes that adorn its whole body. This monster is known for its penchant to wreak destruction with little regard for its own wellbeing.",
+    "useful_info": "Its attacks where it uses all of its strength are particularly threatening, such as when it slams its arms down with a large swoop and lunges along the ground. Even greater caution is required when its health is depleted to a certain degree, as it roars, spreads its wings, and covers its entire body with hard, black spikes. In this state, its ferociousness increases, and it unleashes more powerful attacks, such as a diving charge. The spikes can be broken as a result of the monster’s own actions, but they will regenerate after a while. The regenerated thorns are white and brittle, but as time passes, they harden and turn black. If a regenerated spike is destroyed by an attack, the monster will topple to the ground, leaving an opening to attack. As such, attacking its thorns while they are white, using blast element weapons that disregard defenses, or exploiting its elemental weakness with thunder element weapons, are all effective strategies.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "IMMORTAL_DRAGONSCALE": "Immortal Dragonscale",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "NERGIGANTE_GREAT_HORN": "Nergigante Horn+",
+      "NERGIGANTE_SHELL": "Nergigante Shell",
+      "NERGIGANTE_TAIL": "Nergigante Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "nightshadepaolumu": {
+    "slug": "nightshadepaolumu",
+    "description": "A subspecies of Paolumu, classified as being of the sleep element. Exhaling the air stored in its neck, it emits a sleep-inducing breath in all directions.",
+    "useful_info": "This monster may spend extended periods of time in the air while its neck pouch is inflated, unleashing sleep-inducing gas and powerful thrust attacks. If you have not prepared in advance for its sleep breath, it would be wise to distance yourself while it performs this attack. Much like its usual counterpart, breaking the neck pouch of this subspecies, or alternatively inflicting sleep/paralysis/stun upon it will bring it down towards the ground.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "NIGHTSHADE_PAOLUMU_PELT": "Nightshade Paolumu Pelt",
+      "NIGHTSHADE_PAOLUMU_PRIMEHIDE": "Nightshade Paolumu Primehide",
+      "NIGHTSHADE_PAOLUMU_PRIMESCALE": "Nightshade Paolumu Primescale",
+      "NIGHTSHADE_PAOLUMU_SCALE": "Nightshade Paolumu Scale",
+      "NIGHTSHADE_PAOLUMU_WEBBING": "Nightshade Paolumu Webbing",
+      "NIGHTSHADE_PAOLUMU_WING": "Nightshade Paolumu Wing",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "odogaron": {
+    "slug": "odogaron",
+    "description": "A fanged wyvern that roams about in search of carcasses. They have a habit of dragging their captured prey and hunks of meat back to their nest.",
+    "useful_info": "The intervals between its attacks are short, making it imperative to concentrate on finding openings and judging when best to counter. Strikes received from its forelegs may cause you to start bleeding, leading to health loss with each action taken. In order to prevent bleeding status, it would be wise to break its forelegs as soon as possible. Additionally, the paralysis element is effective against this monster, providing a way to inhibit its rapid movements.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "ODOGARON_CLAW": "Odogaron Claw",
+      "ODOGARON_PLATE": "Odogaron Plate",
+      "ODOGARON_PRIMESCALE": "Odogaron Primescale",
+      "ODOGARON_SCALE": "Odogaron Scale",
+      "ODOGARON_SINEW": "Odogaron Sinew",
+      "ODOGARON_TAIL": "Odogaron Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "paolumu": {
+    "slug": "paolumu",
+    "description": "A flying wyvern capable of storing large quantities of air within its body. By powerfully exhaling this air, it can travel afloat across the skies, delivering crushing blows with its hard tail.",
+    "useful_info": "By deeply inhaling, it can suck in unwary hunters alongside large quantities of air. Its inflated neck pouch can serve as a means by which to ground the beast if broken, allowing for its vulnerable head to be damaged. Take caution, however, as some specimens are capable of unleashing a violent tornado breath attack.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "PAOLUMU_PELT_1": "Paolumu Pelt",
+      "PAOLUMU_RIFTBORNE_MATERIAL": "Paolumu Riftscale",
+      "PAOLUMU_SCALE_1": "Paolumu Scale",
+      "PAOLUMU_SCALE_3": "Paolumu Primescale",
+      "PAOLUMU_SHELL_1": "Paolumu Shell",
+      "PAOLUMU_SHELL_3": "Paolumu Primeshell",
+      "PAOLUMU_WING_1": "Paolumu Webbing",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "pinkrathian": {
+    "slug": "pinkrathian",
+    "description": "A variant of Rathian whose shell is tinted with a vivid, cherry-colored hue. Brandishing its venom-laden tail with greater finesse than a common Rathian, it hunts by weakening its prey before finishing them off.",
+    "useful_info": "This subspecies displays different behavior compared to its regular counterpart, performing wild somersault attacks with its tail mid-flight. It will also attempt to use its tail to sweep hunters off their feet, so it is imperative to judge which direction the tail is coming from before evading. If it starts to move backwards while on the ground, this is a prelude to a powerful breath attack, so be sure to dodge to the left or right with good timing. Its head and wings, as well as the tip of its tail are vulnerable, so focus your attacks on these body parts.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "PINK_RATHIAN_PLATE": "Pink Rathian Plate",
+      "PINK_RATHIAN_PRIMESCALE": "Pink Rathian Primescale",
+      "PINK_RATHIAN_SCALE": "Pink Rathian Scale",
+      "PINK_RATHIAN_SHELL": "Pink Rathian Shell",
+      "PINK_RATHIAN_SPIKE": "Pink Rathian Spike",
+      "PINK_RATHIAN_WEBBING": "Pink Rathian Webbing",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "pukei-pukei": {
+    "slug": "pukei-pukei",
+    "description": "A bird wyvern whose body contains a poisonous fluid. It ensnares its prey by brandishing its whip-like tongue, which can be expanded and contracted at will. By mixing the berries and plants it consumes with the venom in its body, it can release a devastating poison breath attack.",
+    "useful_info": "This monster assails hunters with its poisonous saliva and extendable tongue. After spitting out venom, it leaves a small opening in which its vulnerable head can be attacked.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "PUKEIPUKEI_QUILL_1": "Pukei-Pukei Quill",
+      "PUKEIPUKEI_RIFTBORNE_MATERIAL": "Pukei-Pukei Riftscale",
+      "PUKEIPUKEI_SAC_1": "Pukei-Pukei Sac",
+      "PUKEIPUKEI_SCALE_1": "Pukei-Pukei Scale",
+      "PUKEIPUKEI_SCALE_3": "Pukei-Pukei Primescale",
+      "PUKEIPUKEI_SHELL_1": "Pukei-Pukei Shell",
+      "PUKEIPUKEI_TAIL_1": "Pukei-Pukei Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "quematrice": {
+    "slug": "quematrice",
+    "description": "A brute wyvern that scatters highly volatile, flammable substances, then ignites them by rubbing its tail against them to set them ablaze. It seldom hunts for its own prey, instead scavenging the carcasses of herbivores. It frequently contends with smaller carnivores over its meals.",
+    "useful_info": "This monster repeatedly performs pecking and biting attacks. Its attacks that make use of its tail are not only powerful but also unleash surrounding flames, so take caution. In order to initiate its fire-based attacks, it scatters flammable substances, so it’s best to keep your distance and handle the situation from a safe position. Furthermore, its flames linger on the ground for a while, so even if you manage to dodge them, be wary of your surroundings. Dealing a certain amount of damage to its tail can partially break it, causing it to violently stagger. Furthermore, severing the tail not only prevents flame attacks but also narrows its attack range, so try to aim for this body part relentlessly.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "QUEMATRICE_CREST": "Quematrice Crest",
+      "QUEMATRICE_IGNITER": "Quematrice Igniter",
+      "QUEMATRICE_PRIMESCALE": "Quematrice Primescale",
+      "QUEMATRICE_SCALE": "Quematrice Scale",
+      "QUEMATRICE_SKIN": "Quematrice Skin",
+      "QUEMATRICE_TAIL": "Quematrice Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "radobaan": {
+    "slug": "radobaan",
+    "description": "A brute wyvern that feeds on the bones of corpses, adorning them all over its body. They have been sighted curling their bodies up into a ball and rolling around in order to attack foes.",
+    "useful_info": "When covered with bones, its flesh becomes impenetrable and attacks become ineffective, but the bones can be destroyed through continuous strikes, allowing your weapon to damage it. Be careful, as strong specimens will send bone fragments flying with almost every attack. It may also emit sleeping gas, but if you can get around its head, you will have a chance to hit it with a series of melee attacks. In addition, you can attack it while it is rolling in order to make it fall over.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RADOBAAN_MARROW": "Radobaan Marrow",
+      "RADOBAAN_OILSHELL": "Radobaan Oilshell",
+      "RADOBAAN_PRIMESCALE": "Radobaan Primescale",
+      "RADOBAAN_RIFTBORNE_MATERIAL": "Radobaan Riftscale",
+      "RADOBAAN_SCALE": "Radobaan Scale",
+      "RADOBAAN_SHELL": "Radobaan Shell",
+      "RADOBAAN_TAIL": "Radobaan Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "rajang": {
+    "slug": "rajang",
+    "description": "A monster that, in the rare times it has been sighted, has been noted for its extreme aggressiveness. Those who have witnessed it and lived to tell the tale are few in number. It is thought to lead a solitary life, rarely engaging or competing with other monsters. Its habitat is unknown. When enraged, part of its fur may turn a golden color.",
+    "useful_info": "In addition to its overwhelming strength and mobility, this monster can enter two different types of powered-up states. In its first state, it becomes wilder in nature, as the fur that covers its entire body turns gold in color and its attack patterns change. Following this, it may enter into “rampage mode”, where its attacks become even more aggressive, as it uses its hardened limbs to perform violent barrages while unleashing its most dangerous attacks. However, both of these states can be undone by either breaking its tail or by putting it to sleep, so exploiting its weakness to ice element weapons, or employing sleep element weapons is advisable. Note that its tail may only be broken while it is in a powered-up state.",
+    "translations": {
+      "GOLD_RAJANG_PELT": "Gold Rajang Pelt",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RAJANG_BLACKFUR": "Rajang Blackfur",
+      "RAJANG_CLAW": "Rajang Claw",
+      "RAJANG_FANG": "Rajang Fang",
+      "RAJANG_HORN": "Rajang Horn",
+      "RAJANG_PRIMEFANG": "Rajang Primefang",
+      "RAJANG_TAIL": "Rajang Tail",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "rathalos": {
+    "slug": "rathalos",
+    "description": "A fearsome flying wyvern who has earned the moniker “King of the Skies.” Together with its female counterpart, it forms its territory around their nest, keeping close watch from above. With its powerful wings, it swiftly descends to intercept any trespassers, assailing them with its mighty, poisonous claws. In addition, it is well known for its ability to breathe fire.",
+    "useful_info": "As implied by its title of “King of the Skies,” this monster is capable of taking flight, whereupon it will attack from above with its flame breath. By targeting its wings, or severing its tail, you may be able to force it to descend to the ground.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "RATHALOS_MARROW_1": "Rathalos Marrow",
+      "RATHALOS_PLATE_1": "Rathalos Plate",
+      "RATHALOS_RIFTBORNE_MATERIAL": "Rathalos Riftscale",
+      "RATHALOS_SCALE_1": "Rathalos Scale",
+      "RATHALOS_SCALE_3": "Rathalos Primescale",
+      "RATHALOS_TAIL_1": "Rathalos Tail",
+      "RATHALOS_WINGTALON_1": "Rathalos Wingtalon",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "rathian": {
+    "slug": "rathian",
+    "description": "Known by the alternative name of “Queen of the Land.” With its outstanding leg strength, it hurtles across the land, subduing prey with its venom-laden tail. It has occasionally been spotted hunting together with its male counterpart, Rathalos.",
+    "useful_info": "The spikes that adorn this monster’s tail are coated with a potent venom. However, this poison will be rendered ineffective should its tail be severed. Its head is particularly vulnerable, so it would be wise to focus your aim on it during a hunt.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "RATHIAN_PLATE_1": "Rathian Plate",
+      "RATHIAN_RIFTBORNE_MATERIAL": "Rathian Riftscale",
+      "RATHIAN_SCALE_1": "Rathian Scale",
+      "RATHIAN_SCALE_3": "Rathian Primescale",
+      "RATHIAN_SHELL_1": "Rathian Shell",
+      "RATHIAN_SPIKE_1": "Rathian Spike",
+      "RATHIAN_WING_1": "Rathian Webbing",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "seregios": {
+    "slug": "seregios",
+    "description": "Fiercely territorial flying wyverns known for the sharp, blade-like scales covering their bodies. Boasting swift aerial mobility and lightning-fast footwork, Seregios use their powerful hind legs to make quick work of their prey. Reports confirm that Seregios also have the ability to launch the scales from their bodies, causing lacerations that bleed profusely.",
+    "useful_info": "This monster’s swift movements are troublesome to deal with, but targeting its many breakable parts is an effective way to halt its actions. Breaking a Seregios’s wings, in particular, can stagger it, granting an opportunity to counterattack. Its high-speed aerial kicks are powerful, but dodging sideways will allow you to get in a few hits. Additionally, be wary of its bladescales that can inflict bleeding. These scales remain on the ground for a while, and contact with them will also cause bleeding, so pay attention to where you’re standing.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "SEREGIOS_AIRBLADE_SHARD": "Airblade Shard",
+      "SEREGIOS_BLADESCALE": "Seregios Bladescale",
+      "SEREGIOS_DISSENTER": "Seregios Dissenter",
+      "SEREGIOS_IMPALER": "Seregios Impaler",
+      "SEREGIOS_SUNDERER": "Seregios Sunderer",
+      "SEREGIOS_TALON": "Seregios Talon",
+      "SEREGIOS_WINGTALON": "Seregios Wingtalon",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "shogunceanataur": {
+    "slug": "shogunceanataur",
+    "description": "A large carapaceon that nests in swamps. It possesses long, sharp claws that it wields like scythes. These distinctive claws are usually retracted, but when enraged, they unfold to become merciless blades capable of slicing through wide areas. Like other carapaceons, its back is covered in a shell; however, this shell can take various forms, being anything from another monster’s skull to a giant conch shell. Some specimens have been observed skillfully using a monster’s skull to release jets of water.",
+    "useful_info": "It unleashes a variety of attacks using its left and right claws. Be aware that some of these attacks can inflict the bleeding status effect. Also, when it spreads its claws wide, its attack range expands significantly. Breaking specific body parts is a notably effective strategy when facing a Shogun Ceanataur: in particular, both of its claws can be broken, greatly narrowing its attack range. Furthermore, destroying the large shell on its back exposes a weak point that is highly vulnerable to damage. However, when it is not carrying a shell, its movements become faster, and it may retreat underground to find a new one. You should also be wary of its water breath that it performs after finding a new shell. While its legs cannot be broken, inflicting enough damage on them can cause this monster to topple to the ground, so focusing your attacks on them is also effective.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "SHOGUNCEANATAUR_CLAW": "Ceanataur Claw",
+      "SHOGUNCEANATAUR_LEG": "Ceanataur Leg",
+      "SHOGUNCEANATAUR_PINSER": "Ceanataur Pincer",
+      "SHOGUNCEANATAUR_PRIMECLAW": "Ceanataur Primeclaw",
+      "SHOGUNCEANATAUR_SHELL": "Ceanataur Shell",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_SCALP": "Wyvern Scalp",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "silverrathalos": {
+    "slug": "silverrathalos",
+    "description": "A rare silver-scaled Rathalos species. When wreathed in hellfire, its breath grows more lethal and it gains a new set of attacks.",
+    "useful_info": "Its head is sturdier than that of normal species, making it difficult to inflict damage. In order to prevent it spending long periods of time in the sky, it is necessary to break its wings and bring it to the ground. After a certain amount of time, it envelopes itself in hellfire, unleashing blue flames and intensifying its attacks. The flames from its fire breath remain for a long time, and will instantly explode if hit by its fire breath, so it would be wise to steer clear of the flames on the ground. When covered in hellfire, its head softens to become a weak point. Breaking its head can return it to normal, making it a good target for your attacks.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "SILVER_RATHALOS_MARROW": "Silver Rathalos Marrow",
+      "SILVER_RATHALOS_PLATE": "Silver Rathalos Plate",
+      "SILVER_RATHALOS_PRIMESCALE": "Silver Rathalos Primescale",
+      "SILVER_RATHALOS_PRIMETALON": "Silver Rathalos Primetalon",
+      "SILVER_RATHALOS_SCALE": "Silver Rathalos Scale",
+      "SILVER_RATHALOS_TAIL": "Silver Rathalos Tail",
+      "SILVER_RATHALOS_WINGTALON": "Silver Rathalos Wingtalon",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "somnacanth": {
+    "slug": "somnacanth",
+    "description": "A ferocious type of Leviathan. The sight of it at night, illuminated by moonlight, is often mistaken for a mermaid. It emits an anaesthetizing powder from its tail and the frill around its neck in order to cause prey to fall into a stupor. Some Somnacanth sightings tell of this species making use of unusual shells, so exercise caution if you catch one swimming towards you with a shell in its claws.",
+    "useful_info": "This monster utilizes three different types of status ailment: sleep, blind and blast. Its sleep-inducing powder is perhaps the most dangerous, leaving you completely defenseless to its attacks. It becomes enraged after roaring, causing the color of its fin to change. In this state, the range of its sleep powder increases. The frequency of its sleep-inducing actions and damage of its attacks pose great danger. However, the Sleep Resistance skill can offer you a significant advantage, allowing you to gain the upper hand against it.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "SOMNACANTH_CLAW": "Somnacanth Claw",
+      "SOMNACANTH_FIN": "Somnacanth Fin",
+      "SOMNACANTH_PRIMEFIN": "Somnacanth Primefin",
+      "SOMNACANTH_PRIMESHELL": "Somnacanth Primescale",
+      "SOMNACANTH_RIFTBORNE_MATERIAL": "Somnacanth Riftscale",
+      "SOMNACANTH_SCALE": "Somnacanth Scale",
+      "SOMNACANTH_SHELL": "Somnacanth Shell",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "stygianzinogre": {
+    "slug": "stygianzinogre",
+    "description": "Has a symbiotic relationship with Dracophage Bugs, which it releases like bullets. Becomes even more dangerous when enveloped in a red glow.",
+    "useful_info": "A key characteristic of this monster is its ability to envelop itself in a red glow, during which time its defenses increase significantly. In this state, Dracophage Bugs swarm out with each attack, and red lightning begins to rain down. Since the red lightning strikes the spots where the insects land and glow red, it’s important to be aware of your positioning at all times. During the charge-up animation leading into its glowing state, red lightning appears at its sides, so circling around to its head or tail will provide you with an opportunity to attack. Furthermore, whenever it lets out a loud roar while glowing, this signals that it’s about to unleash a powerful attack. After performing a series of foreleg slams following a leap, it will execute a spinning charge attack. During this sequence, it is best not to go on the offensive: instead, keep your distance and focus on evasion. Although it becomes more dangerous when glowing, Thunder element attacks become extremely effective during this time, so don’t miss this chance to strike back.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "STYGIAN_ZINOGRE_CLAW": "Stygian Zinogre Claw",
+      "STYGIAN_ZINOGRE_DRAGONLOCKS": "Stygian Zinogre Dragonlocks",
+      "STYGIAN_ZINOGRE_HORN": "Stygian Zinogre Horn",
+      "STYGIAN_ZINOGRE_PLATE": "Stygian Zinogre Plate",
+      "STYGIAN_ZINOGRE_PRIMECLAW": "Stygian Zinogre Primeclaw",
+      "STYGIAN_ZINOGRE_SHELL": "Stygian Zinogre Shell",
+      "STYGIAN_ZINOGRE_TAIL": "Stygian Zinogre Tail",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "teostra": {
+    "slug": "teostra",
+    "description": "A ferocious species of elder dragon, which cloaks itself in fire and exhales blazing flames. It boasts a fierce temperament, leaving any who approach head-on exposed to its all-consuming fire and explosions.",
+    "useful_info": "It attacks while expelling flames and explosive powder. When emitting fire, long distance attacks become ineffective, but its flames and powder can be dispelled by breaking its head. After losing half of its health, its assault will become more aggressive, unleashing wide-range attacks that inflict high damage. During this state, if it is emitting flames or powder, it will unleash a devastating attack after taking a set number of actions. Water element attacks are effective when it is exuding flames, and it becomes weak to the ice element when expelling powder. Inflicting enough damage of the respective element can dispel each state.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "TEOSTRA_HORN": "Teostra Horn",
+      "TEOSTRA_SCALE": "Fire Dragon Scale",
+      "TEOSTRA_SHELL": "Teostra Shell",
+      "TEOSTRA_TAIL": "Teostra Tail",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "tigrex": {
+    "slug": "tigrex",
+    "description": "This monster is known for its primitive-looking appearance. It is highly aggressive in nature, using its well-developed limbs to lunge, before striking with terrifying force using its powerful claws and jaws. It travels over wide swathes of land in search of prey, and is said to appear even in cold regions. Its roar is powerful enough to cause physical damage to those who hear it.",
+    "useful_info": "Its roar can inflict great damage, so try to either move behind it or distance yourself so as not to be affected. After roaring, it enters into an aggressive state, where its charge attacks become even more prevalent. Even if these attacks are evaded, it will change direction mid-charge to hone in on you. As such, it would be best to wait for it to finish charging before moving in for a counterattack. Breaking its head and forelegs can send it toppling to the ground, granting a suitable opening to attack. The range of its spinning attacks can be decreased by breaking its tail.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "TIGREX_CLAW": "Tigrex Claw",
+      "TIGREX_FANG": "Tigrex Fang",
+      "TIGREX_PLATE": "Tigrex Plate",
+      "TIGREX_SCALE": "Tigrex Scale",
+      "TIGREX_SCALP": "Tigrex Scalp",
+      "TIGREX_SHELL": "Tigrex Shell",
+      "TIGREX_TAIL": "Tigrex Tail",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "tobi-kadachi": {
+    "slug": "tobi-kadachi",
+    "description": "A fanged wyvern that darts around the thickets of its forested nest. It generates static electricity by brushing its fur across the ground and nearby trees.",
+    "useful_info": "Deftly moving in all directions, it can stealthily launch unseen attacks from your blind spots. The “electrified” state it enters into after accumulating friction can be canceled by breaking a body part, such as its head or tail. Take advantage of the openings left by its tail slashes and gliding leaps to initiate a counterattack.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "TOBIKADACHI_CLAW_1": "Tobi-Kadachi Claw",
+      "TOBIKADACHI_ELECTRODE_1": "Tobi-Kadachi Electrode",
+      "TOBIKADACHI_MEMBRANE_1": "Tobi-Kadachi Membrane",
+      "TOBIKADACHI_PELT_1": "Tobi-Kadachi Pelt",
+      "TOBIKADACHI_RIFTBORNE_MATERIAL": "Tobi-Kadachi Riftscale",
+      "TOBIKADACHI_SCALE_1": "Tobi-Kadachi Scale",
+      "TOBIKADACHI_SCALE_3": "Tobi-Kadachi Primescale",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "tzitzi-ya-ku": {
+    "slug": "tzitzi-ya-ku",
+    "description": "A monster that spreads its luminous pulsing organs when it spots prey or natural enemies, blinding them with a flash of light in order to create an opening. They make use of their astonishing leg power in order to finish off helpless prey.",
+    "useful_info": "The bright flashes emanated from this monster can blind you, so try evading, guarding, or moving far enough out of range. If you do happen to be blinded, however, it would be best to focus on evading until you recover. Be aware that strong specimens may alter their attack position and the timing of their flashes with each step taken. If its head is broken once, the range of its flash attacks is cut in half. If broken once more, it can no longer blind you, so aiming for its head is advisable.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "TZITZIYAKU_CLAW": "Tzitzi-Ya-Ku Claw",
+      "TZITZIYAKU_GREAT_PHOTOPHORE": "Tzitzi-Ya-Ku Great Photophore",
+      "TZITZIYAKU_HIDE": "Tzitzi-Ya-Ku Hide",
+      "TZITZIYAKU_PHOTOPHORE": "Tzitzi-Ya-Ku Photophore",
+      "TZITZIYAKU_PRIMEHIDE": "Tzitzi-Ya-Ku Primehide",
+      "TZITZIYAKU_SCALE": "Tzitzi-Ya-Ku Scale",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "velkhana": {
+    "slug": "velkhana",
+    "description": "An elder dragon said to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
+    "useful_info": "It is capable of unleashing a cold breath that cannot be guarded against. Furthermore, the pools of cold air generated by its various attacks can be transformed into ice blocks by this cold breath. While these can be destroyed by your attacks, it is crucial to keep a close eye on your surroundings. Its head, body, forelegs, wings, hind legs, and tail are covered in ice, and you cannot break these body parts while they are in this state. Take note that you also cannot inflict stun when its head is covered in ice. If you attack an ice-covered body part and break the ice enough times, the monster will be staggered, creating a significant opening. This action will get rid of all of the ice on its body. Once this monster’s health drops below half, it reinforces its protective ice. Since it’s difficult to stagger the monster in this state, it would be best to target the softer spots of its hide, such as parts where the ice has already been broken.",
+    "translations": {
+      "ELDER_DRAGON_BLOOD": "Elder Dragon Blood",
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "VELKHANA_HORN": "Velkhana Horn",
+      "VELKHANA_SCALE": "Velkhana Scale",
+      "VELKHANA_SHELL": "Velkhana Shell",
+      "VELKHANA_TAIL": "Velkhana Tail",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "vipertobikadachi": {
+    "slug": "vipertobikadachi",
+    "description": "A subspecies of Tobi-Kadachi. Secreting poison from the spikes on its tail, it also makes use of its paralysis-inducing fangs to weaken its prey before finishing them off.",
+    "useful_info": "A formidable monster that employs two status ailments: paralysis and poison. Being bitten by it may inflict paralysis, while its tail attack can inflict poison. Furthermore, if you are hit by its tail attack while already poisoned, the poison effect will intensify, turning into venom. Managing these abnormal status effects is crucial: While status resistance skills are effective, breaking specific body parts can also work as a countermeasure against them. Breaking its head prevents paralysis, and breaking its tail reduces the chance of being poisoned, so it would be advised to focus your attacks on these body parts. This monster is also known to be able to rapidly close the distance in a single action, such as when it leaps in to bite or glides toward its foe. Furthermore, be wary even at a distance, as it is capable of firing off its tail spikes at long range.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "VIPER_TOBIKADACHI_ARCHSTINGER": "Viper Tobi-Kadachi Archstinger",
+      "VIPER_TOBIKADACHI_CLAW": "Viper Tobi-Kadachi Claw",
+      "VIPER_TOBIKADACHI_MEMBRANE": "Viper Tobi-Kadachi Membrane",
+      "VIPER_TOBIKADACHI_PELT": "Viper Tobi-Kadachi Pelt",
+      "VIPER_TOBIKADACHI_PRIMESCALE": "Viper Tobi-Kadachi Primescale",
+      "VIPER_TOBIKADACHI_SCALE": "Viper Tobi-Kadachi Scale",
+      "VIPER_TOBIKADACHI_STINGER": "Viper Tobi-Kadachi Stinger",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "volvidon": {
+    "slug": "volvidon",
+    "description": "This monster’s body is covered in a thick red magma-resistant shell, which it uses to roll along the ground. It utilizes its long tongue and paralytic saliva to ensnare its prey.",
+    "useful_info": "This monster’s characteristic rolling attack is not difficult to avoid if you can spot it coming beforehand, as it rolls toward the direction it is leaning before attacking. It can roll in a tracking or circling motion, as well as jump while rolled up. It also uses a tongue attack that will draw you in close should it connect. Additionally, it spits out a fluid that causes paralysis. This fluid will remain on the ground for an extended period of time, so exercise caution. If attacked from behind, it will release gas from its body that causes the stench status should it make contact with you. If it takes a certain amount of damage during a rolling attack, it will fall to the ground, creating an opening. While rolling, its hide becomes vulnerable, but since it is difficult for projectiles to hit it, melee weapons are more effective.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "VOLVIDON_BONE": "Volvidon Bone",
+      "VOLVIDON_CLAW": "Volvidon Claw",
+      "VOLVIDON_PRIMECLAW": "Volvidon Primeclaw",
+      "VOLVIDON_RICKRACK": "Volvidon Rickrack",
+      "VOLVIDON_SHELL": "Volvidon Shell",
+      "VOLVIDON_THICK_RICKRACK": "Volvidon Thick Rickrack",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "WYVERN_STONE_1": "Wyvern Gem Shard",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  },
+  "zinogre": {
+    "slug": "zinogre",
+    "description": "A monster belonging to the fanged wyvern species. It is characterized by its yellow-colored carapace, as well as the pale fur around its abdomen and neck through which electricity courses as it battles. This electrical energy is gathered from nearby Thunderbugs, which Zinogre may then discharge at will.",
+    "useful_info": "It will often attack in rapid succession, with each strike becoming more aggressive as its health decreases. In addition, it frequently generates electricity, which when built up, allows it to enter a super-charged state, making it ever the more dangerous. However, the super-charged state can be removed via consecutive attacks, so keep up your assault between each barrage.",
+    "translations": {
+      "MONSTER_DETAIL_MONSTER_STRENGTH": "Monster Strength",
+      "RARE_FORMAT": "Rarity {0}",
+      "WYVERN_PRIME_GEM": "Wyvern Scarcestone",
+      "ZINOGRE_CLAW": "Zinogre Claw",
+      "ZINOGRE_HORN": "Zinogre Horn",
+      "ZINOGRE_PLATE": "Zinogre Plate",
+      "ZINOGRE_PRIMECLAW": "Zinogre Primeclaw",
+      "ZINOGRE_RIFTBORNE_MATERIAL": "Zinogre Riftshell",
+      "ZINOGRE_SHELL": "Zinogre Shell",
+      "ZINOGRE_SHOCKFUR": "Zinogre Shockfur",
+      "ZINOGRE_TAIL": "Zinogre Tail",
+      "monsterinfo.obtainable_materials": "Obtainable Materials",
+      "monsterinfo.riftborne_materials": "Riftborne Materials"
+    }
+  }
+}

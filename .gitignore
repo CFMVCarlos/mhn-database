@@ -1,0 +1,28 @@
+# Binaries and compiled output
+bin/
+dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# SQLite database files and journals (rebuilt offline via build-db from data/raw/)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/*.db-journal
+*.db
+*.db-wal
+*.db-shm
+*.db-journal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editors
+.idea/
+.vscode/
+*.swp
+*~
